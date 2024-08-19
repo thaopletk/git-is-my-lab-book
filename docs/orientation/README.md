@@ -27,14 +27,26 @@ There was broad interest in having a checklist, and example workflows for people
 
 Suggested topics included:
 
-- How to set up common tools on your laptop (e.g., Python and R);
-- How to [organise your files](../guides/using-git/how-to-structure-a-repository.md);
-- How to write Markdown documents (see Nick Tierney's book [RMarkdown for Scientists](https://rmd4sci.njtierney.com/));
-- How to format and lint your code;
-- How to set up git [on your own device](../guides/using-git/README.md) and [using platforms such as GitHub](../guides/collaborating/README.md);
-- How to recover [old versions of files](../guides/using-git/inspecting-your-history.md);
-- How to make your code device-agnostic, so it can run on HPC platforms, virtual machines, and can easily be migrated to new devices; and
-- How to plan for reproducibility from the beginning, rather than waiting until you're preparing a publication.
+1. For absolute beginners:
+    - How to set up common tools on your laptop (e.g., Python and R);
+    - A list of useful packages, especially for infectious disease modelling;
+    - A list of commonly used code editors;
+    - Tutorials and learning resources (e.g. for Python and R);
+2. For organising your project:
+    - How to [organise your files](../guides/using-git/how-to-structure-a-repository.md);
+    - How to write Markdown documents (see Nick Tierney's book [RMarkdown for Scientists](https://rmd4sci.njtierney.com/));
+    - How to format and lint your code; and
+    - How to plan for reproducibility from the beginning, rather than waiting until you're preparing a publication.
+3. For reproducibility (this entire guide!)
+    - How to set up git [on your own device](../guides/using-git/README.md) and [using platforms such as GitHub](../guides/collaborating/README.md);
+    - How to make your code device-agnostic, so it can run on HPC platforms, virtual machines, and can easily be migrated to new devices
+4. Extra/help
+    - How to recover [old versions of files](../guides/using-git/inspecting-your-history.md);
+    - How to speed up code or run time
+    - How to produce good (?) figures
+    - Workflow guide (e.g., start with a virtual environment, then organise your files, write code, write testing code, set up continuous integration...)
+
+
 
 !!! note
 
